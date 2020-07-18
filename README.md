@@ -1,5 +1,6 @@
 # E-shop
 This is a simple e-commerce project using PHP in OOP for beginners.
+
 Features:
 * Admin can add, delete, update and view products.
 * User can register, buy products, save products in wishlist.
