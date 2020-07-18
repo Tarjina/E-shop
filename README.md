@@ -5,6 +5,7 @@ Features:
 * User can register, buy products, save products in wishlist.
 
 Language Used : PHP in OOP
+
 Database: MySQL Server
 
 How to run the project:
