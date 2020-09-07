@@ -10,6 +10,6 @@ Language Used : PHP in OOP
 Database: MySQL Server
 
 How to run the project:
-* Impost the database file to MySQL server at first
-* Modify the Connection String as you needed to connect to database. Go to config folder of the project.
+* Import the database file to MySQL server at first.
+* Modify the Connection String as you are needed to connect to database. Go to config folder of the project.
 
